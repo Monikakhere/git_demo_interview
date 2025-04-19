@@ -1,5 +1,3 @@
-dated added 
-
 Date: 11 march 2025
 ----------------------
 1. What is the primary purpose of git restore?
